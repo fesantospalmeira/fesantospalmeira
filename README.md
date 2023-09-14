@@ -6,7 +6,7 @@
 
 - 📫 Como se comunicar comigo: **felipesantos7938@gmail.com**
 
-- Atualmente estou cursando [Análise e Desenvolvimento de Sistemas](https://www.fcee.uerj.br/index.php/tecnologia-em-analise-e-desenvolvimento-de-sistemas/) na [Universidade do Estado do Rio de Janeiro - Campus Zona Oeste](http://www.uezo.rj.gov.br/), atualmente estou em busca da minha primeira experiência profissional na área 😄**
+- Atualmente estou cursando [Análise e Desenvolvimento de Sistemas](https://www.fcee.uerj.br/index.php/tecnologia-em-analise-e-desenvolvimento-de-sistemas/) na [Universidade do Estado do Rio de Janeiro - Campus Zona Oeste](http://www.uezo.rj.gov.br/), atualmente estou trabalhando como Aprendiz em QA na [Nasajon](https://nasajon.com.br/) 😄**
 
 
 _______________________________________________
