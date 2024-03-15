@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Felipe Santos 👋</h1>
 
-- 🌱 Atualmente estou estudando: **O Desenvolvimento de Aplicações Web com JavaScript**
+- 🌱 Atualmente estou estudando: **Aplicação de Python para automação de testes**
 
-- 💬 Fale comigo sobre: **Desenvolvimento Web, Design de sites, Programação em Java e Criações de API utilizando .NET e C#**
+- 💬 Fale comigo sobre: **Desenvolvimento Web, Design de sites, Programação em Python e Criações de API utilizando .NET e C#**
 
 - 📫 Como se comunicar comigo: **felipesantos7938@gmail.com**
 
