@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Felipe Santos 👋</h1>
 
-- 🌱 Atualmente estou estudando: **Aplicação de Python para automação de testes**
+- 🌱 Atualmente estou estudando: **Javascript e Python para programação back-end**
 
-- 💬 Fale comigo sobre: **Desenvolvimento Web, Design de sites, Programação em Python e Criações de API utilizando .NET e C#**
+- 💬 Fale comigo sobre: **Desenvolvimento Web, Programação em Python, Automação de testes, Programação Back-End**
 
 - 📫 Como se comunicar comigo: **felipesantos7938@gmail.com**
 
@@ -27,6 +27,7 @@ _______________________________________________
   <a href="https://dotnet.microsoft.com/pt-br/learn/dotnet/what-is-dotnet-framework" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/br/products/photoshop.html](https://expressjs.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   
 </p>
