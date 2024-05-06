@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Felipe Santos 👋</h1>
 
-- 🌱 Atualmente estou estudando: **Javascript e Python para programação back-end**
+- 🌱 Atualmente estou estudando: **Javascript para programação Full-Stack!**
 
 - 💬 Fale comigo sobre: **Desenvolvimento Web, Programação em Python, Automação de testes, Programação Back-End**
 
@@ -29,5 +29,6 @@ _______________________________________________
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/br/products/photoshop.html](https://expressjs.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40" height="40"/> </a>
   
 </p>
