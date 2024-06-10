@@ -32,7 +32,6 @@ _______________________________________________
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40" height="40"/> </a>
   
 </p>
-<div>
+
   ![Fesantospalmeira's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesantospalmeira&show_icons=true&theme=dark)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesantospalmeira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
